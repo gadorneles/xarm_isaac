@@ -6,7 +6,7 @@
 
 [![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-5.0.0-green.svg?style=for-the-badsge&logo=nvidia)](https://developer.nvidia.com/isaac-sim)
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?style=for-the-badsge&logo=ros)
-![Python](https://img.shields.io/badge/python-3.10-blue?style=for-the-badsge&logo=python)
+![Python](https://img.shields.io/badge/python-3.11-blue?style=for-the-badsge&logo=python)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-grey.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Last Commit](https://img.shields.io/github/last-commit/gadorneles/xarm_isaac.svg?style=for-the-badsge)](https://github.com/gadorneles/xarm_isaac/commits/main)
 [![Github Stars](https://img.shields.io/github/stars/gadorneles/xarm_isaac.svg)](https://github.com/gadorneles/xarm_isaac/stargazers)
