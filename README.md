@@ -9,9 +9,6 @@
 ![Python](https://img.shields.io/badge/python-3.10-blue?style=for-the-badsge&logo=python)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-grey.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Last Commit](https://img.shields.io/github/last-commit/gadorneles/xarm_isaac.svg?style=for-the-badsge)](https://github.com/gadorneles/xarm_isaac/commits/main)
-[![GitHub issues](https://img.shields.io/github/issues/gadorneles/xarm_isaac)](https://github.com/gadorneles/xarm_isaac/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/gadorneles/xarm_isaac)](https://github.com/gadorneles/xarm_isaac/pulls)
-[![Contributors](https://img.shields.io/github/contributors/gadorneles/xarm_isaac.svg)](https://github.com/gadorneles/xarm_isaac/graphs/contributors)
 [![Github Stars](https://img.shields.io/github/stars/gadorneles/xarm_isaac.svg)](https://github.com/gadorneles/xarm_isaac/stargazers)
 
 </div>
